@@ -93,16 +93,29 @@ DB의 화장품 데이터를 기반으로 **개인 맞춤 추천**을 제공하�
 ---
 
 ## 📸 **스크린샷 (Screenshots)**  
-> 📌 여기에 UI 캡처 이미지 넣으면 포트폴리오 완성도가 올라갑니다!
 
-```
-📍 ![홈 화면]<img width="1917" height="908" alt="Image" src="https://github.com/user-attachments/assets/ee25aa42-ab7a-4d5d-8169-820b33886057" />
-📍 이미지 업로드 + AI 분석 화면  
-📍 분석 결과 리포트  
-📍 화장품 추천 목록  
-📍 회원 정보 수정 페이지  
-```
+## 📸 홈 화면 (Home Screen)
 
+<img src="https://github.com/user-attachments/assets/ee25aa42-ab7a-4d5d-8169-820b33886057" width="1000" />
+
+---
+
+## 📤 AI 분석 업로드 화면
+
+<!-- 여기에 다른 이미지 URL 넣으면 됨 -->
+<img src="YOUR_UPLOAD_IMAGE_URL" width="1000" />
+
+---
+
+## 📊 피부 분석 결과 화면
+
+<img src="YOUR_ANALYSIS_SCREEN_URL" width="1000" />
+
+---
+
+## 🎁 추천 제품 화면
+
+<img src="YOUR_RECOMMEND_SCREEN_URL" width="1000" />
 ---
 
 ## 📡 **Face++ API 연동 코드 예시**
