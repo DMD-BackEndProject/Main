@@ -128,17 +128,6 @@ Eclipse → Run on Server → Tomcat 9 선택
 
 ---
 
-## 🗄️ **ERD (Database Structure)**  
-> ERD 이미지 넣을 위치  
-```
-user
-product
-skin_analysis (선택)
-recommendation (선택)
-```
-
----
-
 ## 👥 **Team Members (7조)**
 
 | 이름 | 역할 |
@@ -156,12 +145,3 @@ recommendation (선택)
 ✔ 실무 수준의 회원/세션/DB CRUD 구축  
 ✔ 학습 + 포트폴리오 모두에 적합한 구조  
 
----
-
-## ⭐ **GitHub에서 보기 좋은 마무리 문구**
-
-<p align="center">
-  Made with ❤️ by Team 7  
-  <br>
-  Your Skin, Your Beauty — <strong>Cosméthique</strong>
-</p>
