@@ -89,7 +89,7 @@
 | **Database** | MySQL 8.0 |
 | **Pattern** | MVC |
 | **API** | Face++ 검사 API |
-| **IDE** | Eclipse / IntelliJ |
+| **IDE** | Eclipse |
 | **Version Control** | Git & GitHub |
 
 ---
@@ -166,11 +166,4 @@ String apiSecret = "YOUR_API_SECRET";
 ✔ 회원·세션·DB CRUD 포함 실무형 기능 완성  
 ✔ 포트폴리오로 활용할 만한 전체 웹 서비스 구축  
 
----
-
-<p align="center">
-  Made with ❤️ by Team 7  
-  <br>
-  Your Skin, Your Beauty — <strong>Cosméthique</strong>
-</p>
 
